@@ -1,7 +1,7 @@
 {
   "file": "API_file",
   "current_version": "1.0",
-  "latest_version": "None",
+  "version": "0.1",
   "update_available": true,
   "update_message": "新しいバージョンが利用可能です。アップデートしてください。",
   "update_description": "Cream-DOS Release1.0",
